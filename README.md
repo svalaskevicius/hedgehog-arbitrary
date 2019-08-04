@@ -17,7 +17,7 @@ resolvers += Resolver.url("bintray-scala-hedgehog-arbitrary", url("https://dl.bi
 libraryDependencies += "com.svalaskevicius" %% "hedgehog-arbitrary" % "0.0.1" % Test
 ```
 
-2. add arbitrary support in your test:
+2. add imports in your test:
 
 ```
 import hedgehog.arbitrary._
