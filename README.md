@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Generetes arbitrary values for given type.
+Generates arbitrary values for a given type.
 
 Currently, there is a limited subset of default type generators, as well as a Shapeless based derivation mechanism for ADTs.
 
